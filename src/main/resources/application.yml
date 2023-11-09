@@ -1,6 +1,6 @@
 spring:
     application:
-        name: security_secret
+        name: secret_providers
     profiles:
         active: dev
 
